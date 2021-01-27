@@ -17,5 +17,5 @@ Team:
 Start: 26/12/20, end: 29/01/21
 version 2.0
 
-[Report](https://github.com/Daphilippe/Kernel-methods/blob/master/ADVANCED_MACHINE_LEARNING___KERNEL_METHODS.pdf) 
-[Code](https://github.com/Daphilippe/Kernel-methods/blob/master/Kernel_methods.ipynb)
+[Report](https://github.com/Daphilippe/Spammer_detection_on_Twitter/blob/main/Data_mining_for_Big_Data.ipynb) 
+[Code](https://github.com/Daphilippe/Spammer_detection_on_Twitter/blob/main/Data_Mining_for_Big_Data.pdf)
