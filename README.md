@@ -14,7 +14,9 @@ Team:
 - DARMET Théotime
 - LECERF Anthony
 - PHAM Duy Anh Philippe
+
 Start: 26/12/20, end: 29/01/21
+
 version 2.0
 
 [Report](https://github.com/Daphilippe/Spammer_detection_on_Twitter/blob/main/Data_mining_for_Big_Data.ipynb) 
